@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XAWZJFpmcawa/kAgI9NtDn/onho3DjfV9pdIvYDUGGlXzpfMl7to7lognY/xptKpoAXQ73pd7xuV7vm8MP2zsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abhay\\source\\repos\\RestFulApi\\MyApp\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhay\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
