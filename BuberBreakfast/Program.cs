@@ -19,3 +19,4 @@ var app = builder.Build();
     app.MapControllers();
     app.Run();
 }
+//TODO- APPLY REST OF THE REQUESTS
