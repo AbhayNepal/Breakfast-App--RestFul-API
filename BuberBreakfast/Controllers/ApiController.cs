@@ -11,7 +11,8 @@ namespace BuberBreakfast.Controllers
     [Route("breakfasts")]
     public class ApiController : ControllerBase
     {
-        protected IActionResult Problem(List<Error> errors){
+        protected IActionResult Problem(List<Error> errors)
+         {
             var FirstError = errors[0];
             var statusCode = FirstError.Type switch
             {
